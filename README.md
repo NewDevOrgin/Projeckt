@@ -16,6 +16,7 @@ After your project folder has been created it will make a new virtual enviroment
 
 # Using Projeckt!
 ***Create a conf.txt with the full path to a directory where all your projects will saved to!***
+e.g */home/user/projects* DONT INCLUDE THE LAST /
 
 ## Making a new project
 Press the plus in the top left corner of the program a dialog box with two inputs will apear, first enter the name of your project then the template name **!!! Do not include .prt !!!** then press the check, *if no template is found only a folder will be created with a .projeckt file*. 
