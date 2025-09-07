@@ -1,0 +1,23 @@
+QWidget {
+    background-color: black;
+    color: white;
+}
+
+QWidget#Frame {
+    border: 1px solid white;
+}
+
+QPushButton {
+    border: none;
+}
+
+QLabel#Tag {
+    background-color: white;
+    color: black;
+    padding: 5px;
+    border-radius: 5px;
+}
+
+QLabel#Title {
+    font-size: 18px;
+}

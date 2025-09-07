@@ -1,0 +1,3 @@
+python -m venv .v
+git init
+touch App.py
