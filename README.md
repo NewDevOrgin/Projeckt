@@ -15,7 +15,7 @@ All that does is create a new folder in your project directory then it will exec
 After your project folder has been created it will make a new virtual enviroment, initialise git and create `App.py` ready for you to work on it <small>(acording to the template)</small>
 
 # Using Projeckt!
-<sub>I recommend you make the conf.txt with the path to your project directory even though this is handled by the program</sub>
+***Create a conf.txt with the full path to a directory where all your projects will saved to!***
 
 ## Making a new project
 Press the plus in the top left corner of the program a dialog box with two inputs will apear, first enter the name of your project then the template name **!!! Do not include .prt !!!** then press the check, *if no template is found only a folder will be created with a .projeckt file*. 
